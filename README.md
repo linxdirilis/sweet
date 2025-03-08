@@ -16,7 +16,6 @@
             <li>🕛 <strong>7/24 Müşteri Desteği:</strong> Her türlü sorunuz için hızlı ve profesyonel destek hizmeti.</li>
         </ul>
     </section>
-
     <section class="sweet-bonanza-cta">
         <p>Sweet Bonanza'nın şeker gibi kazanç fırsatlarını keşfetmek için hemen giriş yapın! 🚀 Kazanmak için tıklayın!</p>
         <a href="https://t.me/+vT5xydT9LLBlMzA0" class="join-button">🔗 Sweet Bonanza’ya Şimdi Katıl!</a>
